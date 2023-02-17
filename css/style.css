@@ -24,7 +24,7 @@ h1{
 }
 
 .message {
-    background-color: grey;
+    background-color: rgb(253, 28, 28);
     width: 24%;
     padding: 10px;
     margin: 17px 12px;
@@ -63,5 +63,5 @@ h1{
 
 body{
     height: 100vh;
-    background-image: linear-gradient(rgb(135, 236, 245), rgb(14, 187, 123));
+    background-image: linear-gradient(rgb(219, 244, 98), rgb(187, 14, 152));
 }
